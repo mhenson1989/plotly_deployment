@@ -178,7 +178,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: 0,
         yanchor: 'center',
-        text: "Guage displays belly button wash frequency",
+        text: "Gauge displays belly button wash frequency",
         showarrow: false
       }] 
     };
